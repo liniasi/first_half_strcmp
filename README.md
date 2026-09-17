@@ -2,5 +2,5 @@
 Я snickerd делаю strchr
 Я namelessBlack делаю strcat
 Я Razoritto делаю strrchr
-Я kotaa2 strchr - она занята уже
-Я vladislav35 strcpy
+Я kotaa2 strchr
+Я liniasi strncat
